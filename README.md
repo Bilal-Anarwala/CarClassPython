@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is an exact copy of my CarClass that I did only now it is written in Python. I wanted practice OOP on Python and wanted to see if I could replicate my Java project onto Python and was able to do so successfully.
+This project is an exact copy of my CarClass that I did only now it is written in Python. I wanted practice OOP on Python and wanted to see if I could replicate my Java project onto Python and was able to do so successfully. It was much simpler to implement than I expected
 ## Project Structure
 
 The project is organized into three main Python classes, each representing a key component of the car racing system:
